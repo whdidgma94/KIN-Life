@@ -36,7 +36,7 @@ public class HomeController {
 		BoxOffice box = new BoxOffice();
 		box.test();
 		
-		return "home";
+		return "index";
 	}
 	
 }
