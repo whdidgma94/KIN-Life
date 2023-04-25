@@ -25,10 +25,11 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Services</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">갤러리</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">이벤트</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">정보</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">뉴스</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">채팅</a></li>
                     </ul>
                 </div>
             </div>
@@ -56,28 +57,28 @@
                 <div class="row gx-5">
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
-                        <h2 class="h4 fw-bolder">Featured title</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <h2 class="h4 fw-bolder">여행</h2>
+                        <p>해외여행<br>국내여행<br>당일치기<br></p>
                         <a class="text-decoration-none" href="#!">
-                            Call to action
+                            더보기
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
-                        <h2 class="h4 fw-bolder">Featured title</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <h2 class="h4 fw-bolder">IT</h2>
+                        <p>JAVA<br>C++<br>Python<br></p>
                         <a class="text-decoration-none" href="#!">
-                            Call to action
+                            더보기
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                     <div class="col-lg-4">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
-                        <h2 class="h4 fw-bolder">Featured title</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <h2 class="h4 fw-bolder">반려동물</h2>
+                        <p>유기견<br>유기묘<br>기타 반려동물<br></p>
                         <a class="text-decoration-none" href="#!">
-                            Call to action
+                            더보기
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
