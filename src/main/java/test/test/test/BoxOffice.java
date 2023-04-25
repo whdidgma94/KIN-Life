@@ -43,8 +43,8 @@ public class BoxOffice {
             for (JsonNode movie : dailyBoxOfficeList) {
                 String rank = movie.path("rank").asText();
                 String movieNm = movie.path("movieNm").asText();
-                String salesAcc = movie.path("salesAcc").asText();
-                System.out.println(rank + "\t" + movieNm + "\t" + salesAcc);
+                String audiCnt = movie.path("audiCnt").asText();
+                System.out.println(rank + "\t" + movieNm + "\t" + audiCnt);
             }
         } catch (IOException e) {
             e.printStackTrace();
