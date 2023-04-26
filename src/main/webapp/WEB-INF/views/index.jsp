@@ -287,12 +287,6 @@
                 </div>
                 <div class="row gx-5 justify-content-center">
                     <div class="col-lg-6">
-                        <!-- * * * * * * * * * * * * * * *-->
-                        <!-- * * SB Forms Contact Form * *-->
-                        <!-- * * * * * * * * * * * * * * *-->
-                        <!-- This form is pre-integrated with SB Forms.-->
-                        <!-- To make this form functional, sign up at-->
-                        <!-- https://startbootstrap.com/solution/contact-forms-->
                         <!-- to get an API token!-->
                         <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                             <!-- Name input-->
