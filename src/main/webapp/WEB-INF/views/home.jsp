@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -9,7 +10,10 @@
     <link rel="stylesheet" href="<c:url value="/resources/css/main.css" />">
 
 </head>
+
 <body>
+
+
 <header class="header">
         <h1 class="logo"><a href="#">KIN인생</a></h1>
     </header>
@@ -51,5 +55,6 @@
         </div>
     </div>
     <footer class="footer">Copyright ⓒ 2023. KIN인생. All rights reserved.</footer>
+
 </body>
 </html>
