@@ -3,3 +3,5 @@ Servers/.project
 *.prefs
 *.policy
 *.properties
+*.xml
+*.properties
