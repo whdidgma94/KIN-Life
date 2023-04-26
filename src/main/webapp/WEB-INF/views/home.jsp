@@ -12,6 +12,8 @@
 </head>
 
 <body>
+
+
 <header class="header">
         <h1 class="logo"><a href="#">KIN인생</a></h1>
     </header>
