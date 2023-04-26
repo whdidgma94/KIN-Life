@@ -340,17 +340,13 @@
         </section>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container px-5"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2023</p></div>
+            <div class="container px-5"><p class="m-0 text-center text-white">Copyright 2023. KIN all rights reserved.</p></div>
         </footer>
         <!-- Bootstrap core JS-->
 <!--         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script> -->
         <!-- Core theme JS-->
 <!--         <script src="/resources/js/scripts.js"></script> -->
- <%--        <link rel="stylesheet" href="<c:url value="/resources/css/main.css" />"> --%>
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-        <!-- * *                               SB Forms JS                               * *-->
-        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+<!--         <link rel="stylesheet" href="<c:url value="/resources/css/main.css" />"> -->
 <!--         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script> -->
     </body>
 </html>
