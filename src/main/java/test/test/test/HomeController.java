@@ -33,7 +33,10 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		return "home";
+		BoxOffice box = new BoxOffice();
+		box.test();
+		
+		return "index";
 	}
 	
 }
