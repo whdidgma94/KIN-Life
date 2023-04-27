@@ -234,14 +234,14 @@
 	<div id="account" class="sc_login">
 <h2 class="blind">로그인</h2>
 <!-- <p class="login_msg">네이버를 더 안전하고 편리하게 이용하세요</p> -->
-<a href="https://nid.naver.com/nidlogin.login?mode=form&amp;url=https%3A%2F%2Fwww.naver.com" class="link_login" data-clk="log_off.login"><i class="ico_naver"><span class="blind">네이버</span></i>로그인</a>
-<div class="sub_area">
+<a href="login" class="link_login" data-clk="log_off.login"><i class="ico_naver"><span class="blind">네이버</span></i>로그인</a>
+<!-- <div class="sub_area">
 <div class="look_box">
 <a href="https://nid.naver.com/user/help.nhn?todo=idinquiry" class="link_look" data-clk="log_off.searchid">아이디</a>
 <a href="https://nid.naver.com/nidreminder.form" class="link_look" data-clk="log_off.searchpass">비밀번호찾기</a>
 </div>
 <a href="https://nid.naver.com/nidregister.form?url=https%3A%2F%2Fwww.naver.com" class="link_join" data-clk="log_off.registration">회원가입</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="time_best">

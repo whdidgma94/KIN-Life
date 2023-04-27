@@ -1,0 +1,207 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.logo a {
+    color: black;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
+.join-form {
+    margin-top: 20px;
+    width: 500px;
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+li {
+    list-style: none;
+
+}
+
+.input-form {
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.join-text {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+
+}
+
+
+.pw-text,
+.phone-text,
+.id-text,
+.checkpw-text,
+.email-text,
+.nikname-text,
+.phone-text {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 1px;
+    text-align: center;
+    padding: 10px;
+}
+
+.id,
+.pw,
+.checkpw,
+.email,
+.nikname,
+.phone {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 1px;
+}
+
+.join {
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: #343a40;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.join span {
+
+    color: white;
+}
+
+/*footer*/
+.footer {
+    padding: 63px 0 32px;
+    box-sizing: border-box;
+}
+
+.footer .footer_inner {
+    position: relative;
+    text-align: center;
+}
+
+.footer .footer_link li {
+    display: inline-block;
+
+}
+
+.footer .footer_link li a {
+    color: black
+}
+
+.footer .footer_link li+li {
+    position: relative;
+    padding-left: 13px;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+body,
+button,
+dd,
+dl,
+dt,
+fieldset,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+legend,
+li,
+ol,
+p,
+select,
+table,
+td,
+textarea,
+th,
+ul {
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: none;
+    font-family: -apple-system, BlinkMacSystemFont, helvetica, "Apple SD Gothic Neo", sans-serif;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.footer .footer_copy .footer_logo {
+    display: inline-block;
+    vertical-align: top;
+    background-position: -157px -51px;
+    background-repeat: no-repeat;
+    width: 70px;
+    height: 15px;
+}
+
+.footer .footer_copy .footer_logo,
+.header .logo,
+.reconfirm_top .logo {
+
+    background-size: 244px 107px;
+    background-repeat: no-repeat;
+}
+
+.footer .footer_link+.footer_copy {
+    margin-top: 9px;
+}
+
+.blind {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+}
