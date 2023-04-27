@@ -1,5 +1,6 @@
 package test.test.test;
 
+import java.io.IOException;
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -35,6 +36,15 @@ public class HomeController {
 		
 		BoxOffice box = new BoxOffice();
 		box.test();
+		
+		// animal
+		Animal animal = new Animal();
+		try {
+			animal.main();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 		return "index";
 	}
